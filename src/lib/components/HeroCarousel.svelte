@@ -108,10 +108,10 @@
 	<div class="pointer-events-none absolute inset-0 grid place-items-center">
 		<h1 class="sr-only">EWM Bespoke Interiors</h1>
 		<img
-			src="/images/ewm/logo-orange-white.png"
+			src="/images/ewm/logo-orange-white.svg"
 			alt=""
-			width="900"
-			height="428"
+			width="2031"
+			height="1064"
 			class="w-[min(58vw,300px)]"
 		/>
 	</div>

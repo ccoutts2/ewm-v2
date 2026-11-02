@@ -28,7 +28,7 @@
 	<div class="wrap flex h-18 items-center justify-between gap-6">
 		<a href={resolve('/')} class="block shrink-0" aria-label="EWM Bespoke Interiors, home">
 			<img
-				src="/images/ewm/monogram-orange.png"
+				src="/images/ewm/monogram-orange.svg"
 				alt=""
 				width="480"
 				height="161"

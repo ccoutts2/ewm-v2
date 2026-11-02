@@ -7,7 +7,7 @@
 <footer class="bg-navy text-on-navy-muted">
 	<div class="wrap grid gap-10 py-14 text-sm md:grid-cols-[1fr_auto_1fr] md:items-center">
 		<img
-			src="/images/ewm/monogram-orange.png"
+			src="/images/ewm/monogram-orange.svg"
 			alt="EWM"
 			width="480"
 			height="161"

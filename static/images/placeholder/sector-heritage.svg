@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b7ad9c"/><stop offset="1" stop-color="#8c8373"/></linearGradient>
+<pattern id="l" width="90" height="800" patternUnits="userSpaceOnUse" patternTransform="skewX(-25)"><path d="M0 0V800" stroke="#191c22" stroke-opacity="0.06"/></pattern></defs>
+<rect width="1200" height="800" fill="url(#g)"/><rect width="1200" height="800" fill="url(#l)"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#191c22"><text x="32" y="742" font-size="14" opacity="0.6">Placeholder</text><text x="32" y="768" font-size="18" opacity="0.85">Heritage and culture: joinery in a listed museum or gallery</text><text x="1168" y="768" font-size="14" text-anchor="end" opacity="0.6">1200 x 800</text></g>
+</svg>

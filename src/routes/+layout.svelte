@@ -6,6 +6,8 @@
 	import { beforeNavigate, onNavigate } from '$app/navigation';
 	import SiteHeader from '#lib/components/SiteHeader.svelte';
 	import SiteFooter from '#lib/components/SiteFooter.svelte';
+	import SiteRails from '#lib/components/SiteRails.svelte';
+	import { page } from '$app/state';
 	import type { LayoutProps } from './$types';
 
 	let { children }: LayoutProps = $props();
@@ -81,6 +83,7 @@
 
 <div id="top"></div>
 <SiteHeader />
+<SiteRails fallback={page.url.pathname.startsWith('/projects') ? 'Projects' : ''} />
 
 <main id="main">
 	{@render children()}
